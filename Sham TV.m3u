@@ -31,7 +31,7 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTM3U billed-msg="SELAMAT DATANG KE SHAM8479.. PERHATIAN‼️PLAYLIST INI PERCUMA.. DI LARANG MENJUAL BELI❗SILA REFUND JIKA TERBELI"
 
 
-################## ISLAMIC #################
+#################################################################### ISLAMIC ##################################################################################
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.postimg.cc/d3LmTG2G/al-quran-al-kareem-tv.png",Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
@@ -40,7 +40,7 @@ https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-id="AlSunnahAlNabawiyahTV" tvg-logo="https://i.imgur.com/84nqj99.png",Al Sunnah Al Nabawiyah FHD (Medina)
 #EXTVLCOPT:network-caching=1000
 
-################ MY FREEVIEW ################
+################################################################ MY FREEVIEW ##################################################################################
 
 #EXTINF:-1 group-title="myFreeview" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,7 +118,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
-################## ASTRO ###################
+############################################################ ASTRO #############################################################################################
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -165,7 +165,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-################## UNIFI TV ################
+########################################################## UNIFI TV ############################################################################################
 
 #EXTINF:-1 group-title="Unifi TV" tvg-id="SalamHD" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -197,7 +197,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-############### MEDIACORP ###############
+########################################################## MEDIACORP ###########################################################################################
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -224,7 +224,7 @@ https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
-################## RTB GO ##################
+########################################################### RTB GO ##############################################################################################
 
 #EXTINF:-1 group-title="RTB Go" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
 #EXTVLCOPT:network-caching=1000
@@ -238,7 +238,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-################# CHINESE ##################
+########################################################## CHINESE ##############################################################################################
 
 #EXTINF:-1 group-title="Chinese" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -265,7 +265,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
-################### INDIAN #################
+########################################################## INDIAN ###############################################################################################
 
 #EXTINF:-1 group-title="Indian" tvg-id="ColorsHindi" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
