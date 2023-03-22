@@ -250,8 +250,8 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="DuniaSinema" tvg-chno="128" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", 128 Unifi Dunia Sinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 ########################################################## MEDIACORP ##########################################################################################
