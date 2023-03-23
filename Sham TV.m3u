@@ -238,8 +238,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="SalamHD" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", 113 Unifi Salam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salamhd/
-
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbAl1Tvv42wCThrR0r7dPDJ1m7R%2B0L7qWR8k6cucc%2FUm4CtpFakkA3rJLchGaXwkphUV4Chgc98H8w715s7gH25aVFRTQiCcWXuFIeO21qkbF%3A20230323135548%3AUTC%2C10001002129788%2C180.75.243.245%2C20230323135548%2Curn:Huawei:liveTV:iptv47777%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C4067322434%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFApWF6w0Jiammljdmg_8YiMtCm0Tb6_Vup2ZN3l9BIO7jZK2yDUwAdpIgUwsmbC5rTOJxWKpdU0SPsugODHgfdO5MtgJu5zWV5bRjHLOKOOkmu62Hty8LIdWY1Tsj50wjo1BZVNNR0gUnIvooG9CR48eXufo5wnBalZji2IlV7wQucgl6ae0gnT_NOQGaR3aB0S0--C-gKrBJyQPMHdwWEKLqhu8_3GHaD82b7WVhOD0AAAA&tenantId=6003
 
 #EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", 116 Unifi Sensasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
