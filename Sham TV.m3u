@@ -59,7 +59,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TVIKIM" tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png", TV IKIM SD
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
 #EXTVLCOPT:network-caching=1000
