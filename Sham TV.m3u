@@ -792,6 +792,9 @@ https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
 #EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
 https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
 
+#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MAKMURFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
+
 #EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="FLYFM" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
