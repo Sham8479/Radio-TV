@@ -528,7 +528,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="DiscoveryChannel" ch-number="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png", 552 Discovery Channel FHD
+#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="DiscoveryChannel" ch-number="552" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png", 552 Discovery Channel FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
