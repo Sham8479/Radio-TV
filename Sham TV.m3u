@@ -580,7 +580,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="WarnerTV" ch-number="712" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-black-and-white.png", 712 Warner TV FHD
+#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="WarnerTV" ch-number="712" tvg-logo="https://images.squarespace-cdn.com/content/v1/5952a5691b10e36c01de3e8c/1530033785241-PTL1E9L0DEXKN1OLHTAV/Warner_Channel_logo.png", 712 Warner TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
