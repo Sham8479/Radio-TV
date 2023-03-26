@@ -543,7 +543,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="History" ch-number="555" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png", 555 History FHD
+#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="History" ch-number="555" tvg-logo="https://w1.pngwing.com/pngs/874/685/png-transparent-tv-history-television-channel-television-show-logo-history-hd-digital-television-vikings.png", 555 History FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
