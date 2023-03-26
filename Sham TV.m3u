@@ -152,7 +152,7 @@ http://w.nasvpn.xyz:8080/puasa/puasa1./172
 
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroSensasi" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", 109 Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
-http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
+http://w.nasvpn.xyz:8080/puasa/puasa1./16841
 
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", 112 Astro Rania FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
