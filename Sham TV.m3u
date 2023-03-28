@@ -64,7 +64,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", 122 TVS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,7 +148,7 @@ https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvss
 
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", 108 Astro Citra HD Backup
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://w.nasvpn.xyz:8080/puasa/puasa1./172
+http://hotz.vip:2082/ejumjom/ejumjom/28
 
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroSensasi" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", 109 Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
