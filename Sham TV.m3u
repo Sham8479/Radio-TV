@@ -242,42 +242,42 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
-#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", 113 Unifi Salam HD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", 113 Unifi Salam HD
 https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbOxkkFHdKoREMcy1MS2Rl74GT03J2%2BX2vI6rD80LpxjZaQArTT28KRIOoc4bDtLYQei6CQbKA34OIg5E7RQmhVuXUa7p19AiNlG2IwzWT7mo%3A20230329173052%3AUTC%2C10001002129788%2C115.135.196.144%2C20230329173052%2Curn:Huawei:liveTV:iptv47777%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C1957203498%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHy-vENDn4BEKqVKVIBK7V2t64UZwY7IDUv4fQcJ2ZN3pzQkufO03WCPiwqhKmLEk6A2hdrZQUpu5UXbFM1yZqySyG0E--iW7BzsftDwguuJTAC2DtcrcP6NdlcxsNJQ1v7Ejp3lvSLnf8jpmj94k8zn2c-CHg3ymFdcKoXdVgUwmATVGoUpVsXtIW8_Bs2C_mbRwvmMh9Rf8CdIchE7ugHdBTgyPp6RbCP_ed3NPmAZXZrYT0AAAA&tenantId=6003
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", 116 Unifi Sensasi
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", 116 Unifi Sensasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Inspirasi" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", 118 Unifi Inspirasi
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Inspirasi" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", 118 Unifi Inspirasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Degup" tvg-chno="120" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", 120 Unifi Degup
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Degup" tvg-chno="120" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", 120 Unifi Degup FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
-#EXTINF:-1 group-title="Unifi TV" tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", 120 Unifi Degup
+#EXTINF:-1 group-title="Unifi TV" tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", 120 Unifi Degup FHD
 
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Siar" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", 121 Unifi Siar
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Siar" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", 121 Unifi Siar FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="DuniaSinema" tvg-chno="128" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", 128 Unifi Dunia Sinema
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="DuniaSinema" tvg-chno="128" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", 128 Unifi Dunia Sinema FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
-#EXTINF:-1 group-title="Unifi TV" tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-logo="https://speedtrademarket.com/live/logo/astropink_logo.png", 141 Unifi Pesona
+#EXTINF:-1 group-title="Unifi TV" tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", 141 Unifi Pesona FHD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
 
 ########################################################## MEDIACORP ##########################################################################################
