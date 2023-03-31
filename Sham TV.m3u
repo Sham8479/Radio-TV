@@ -32,81 +32,81 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", 101 TV1 FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", 101 TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TV2" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", 102 TV2 FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV2" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", 102 TV2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TV3" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3 FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV3" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", 113 TV6 FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", 113 TV6 FHD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", 114 TV AlHijrah FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", 114 TV AlHijrah FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM SD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM SD
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
 
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", 122 TVS FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", 122 TVS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png", 123 Awesome TV FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png", 123 Awesome TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://aqfadtv.xyz/live/awesometv/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png", 147 DidikTV KPM FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png", 147 DidikTV KPM FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 148 8TV FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 148 8TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 https://aqfadtv.xyz/live/8tv/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", 149 TV9 FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", 149 TV9 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 https://aqfadtv.xyz/live/tv9/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405", 146 OKEY FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405", 146 OKEY FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" tvg-id="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV HD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" channel id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" channel id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://seeklogo.com/images/M/myfreeview-logo-1A8EC639E3-seeklogo.com.png" channel id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" channel id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
@@ -491,32 +491,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 ##################################################################### LIFESTYLE ###############################################################################
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="TLC" ch-number="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", 707 TLC FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="TLC" ch-number="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", 707 TLC FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="FoodNetwork" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png", 708 Food Network FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="FoodNetwork" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png", 708 Food Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="AFN" ch-number="709" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png", 709 Asian Food Network FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="AFN" ch-number="709" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png", 709 Asian Food Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="HGTV" ch-number="715" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", 715 HGTV FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="HGTV" ch-number="715" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", 715 HGTV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="DMAX" ch-number="716" tvg-logo="https://image-service.goldbach.com/5Fd6NxHwSJ-Hy8QDz7LDvyff7P8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f6/2021/04/131022_dmax_tm_logo_negativ2_rgb-1.png", 716 DMAX FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="DMAX" ch-number="716" tvg-logo="https://image-service.goldbach.com/5Fd6NxHwSJ-Hy8QDz7LDvyff7P8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f6/2021/04/131022_dmax_tm_logo_negativ2_rgb-1.png", 716 DMAX FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://seeklogo.com/images/L/lifestyles-logo-E5BDBF1954-seeklogo.com.png" tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png", 717 BBC Lifestyle FHD
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://cdn.freebiesupply.com/logos/large/2x/lifestyles-logo-png-transparent.png" tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png", 717 BBC Lifestyle FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
