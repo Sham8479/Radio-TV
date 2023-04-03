@@ -64,7 +64,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
-
+https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", 122 TVS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
