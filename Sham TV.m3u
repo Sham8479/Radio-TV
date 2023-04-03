@@ -242,7 +242,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbDGVbpaLcIBT%2F92ZtzyYSAZRTE8BQtzQEk9tepGqmM8P6n79Qe%2FvAtUaB4CHeUTx90V4Chgc98H8w715s7gH25aVFRTQiCcWXuFIeO21qkbF%3A20230403115744%3AUTC%2C10001002129788%2C115.135.197.59%2C20230403115744%2Curn:Huawei:liveTV:iptv47777%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhhZBOfSkMTExaCJ6NWPZVmKh2qKJfy8oXvYwO2_y-gBNm5WaCVBKWqCQ2eySpgXNTZHkxoBkCspZpEfplWQazjWdLX09YqfD8iwSnnApBRdzVo1zawc7Nctne6GgxB87UHg1mlQdDX8hclgbyKJvfMf3Du9jcFOFUTWpiXyRZIORHM6C9WNaId6GD7siLn17R6B66-0XUAYuErtD32CpREuqezr343ahHmw-J17hFfQAAAA&tenantId=6003
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", 113 Unifi Salam HD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", 113 Unifi Salam HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
