@@ -58,7 +58,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM SD
+#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM FHD
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", 116 Suke TV FHD
