@@ -141,8 +141,7 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&e
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", CH108 Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
-http://sooka.buzz/citra.m3u8
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUoJ2arx55fWsrkN_vLgMRwg=ZC80/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
