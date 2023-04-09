@@ -48,7 +48,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="DramaSangat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png/revision/latest/scale-to-width-down/250?cb=20210911080527", Drama Sangat
-https://analytics-production-043a97a4.ts.r.appspot.com/event
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
 #EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", CH113 TV6 FHD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -242,7 +242,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 #EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH113 Unifi Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
-https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLP0DuvRfPN3bCE7UcMh7jjLzpbOI69yefouHGyAUjzb0j5FQ6%2FDFPKcmA90nAUmKoH9k%2BA9MbSbe4jBh%2BNSZdDCv79soLL9JzF%2BsZxJwR1E%3A20230408074519%3AUTC%2C10001002129842%2C180.75.46.35%2C20230408074519%2Curn:Huawei:liveTV:iptv47777%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy26DMBRE_8ZLCz9KYeFVokiVKloppNtqgq8dhMGpTSL17wMt2c7MGZ05oaO3valrCOecdVrV-kVrvCoFTWQt2bOQimX6aaKRrEMI_eSbaFfs67j7FgUvuJSCq5K1690hwG_L5jaeKRnxxI6U7n1HxmbH78gc3ifymPs48c-A31MK24RRu6mJsioWJ1VWsqrZvKYt8rA07IK8i-MViex79H-AcQiZ2BXdAE8NRjLTLYR_7iPZxeYBxOQ0XvQAAAA&tenantId=6003
+https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLP0DuvRfPN3bCE7UcMh7jhdlgJvuFcT%2B9KHkPsLguco7iu0uwFBXsmXqTmTjReWXIH9k%2BA9MbSbe4jBh%2BNSZdDCv79soLL9JzF%2BsZxJwR1E%3A20230409080405%3AUTC%2C10001002129842%2C180.75.46.35%2C20230409080405%2Curn:Huawei:liveTV:iptv47777%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQWvDMBSD_42Pxn5J3fbgU8dgMLJCs12HZr94oU7c2Wlh_35Jm110kPQJTRmOX57spjPQvPN-b6qayKCu3RakGdQpb0gU_mmSJeEQYz-GJvkF-zgdPrWSShJpWRnRLnPPEWFtNtfhi7PV_9iJ8613bH3p5A1FIoTMAVOfRnmM-H3Pca0Ibtdr2uy0qmg_y0aJaXFblPOciG-UQxouyOxfU7gDtkMsLC5wZwRuMLAdrzE-uLfs5zd_DfN_hvQAAAA&tenantId=6003
 
 #EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", CH116 Unifi Sensasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
