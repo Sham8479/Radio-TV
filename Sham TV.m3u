@@ -783,9 +783,11 @@ https://no2.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|referer=https:
 #EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+
 https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", CH815 Astro Supersport 5 FHD
