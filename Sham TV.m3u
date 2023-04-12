@@ -614,7 +614,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
 #################################################################### ISLAMIC ##################################################################################
 
-#EXTINF:-1 group-title="Islamic" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Star_and_Crescent.svg/220px-Star_and_Crescent.svg.png" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.postimg.cc/d3LmTG2G/al-quran-al-kareem-tv.png", Al Quran Al Kareem FHD (Makkah)
+#EXTINF:-1 group-title="Islamic" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Star_and_Crescent.svg/220px-Star_and_Crescent.svg.png" tvg-id="AlQuranAlKareemTV" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2Fjan%2FQuraan_channel_logo%2Foriginal%2FQuraan_channel_logo.png%3Fheight%3DNaN%26width%3D432%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1024&q=75", Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
 https://edge.taghtia.com/sa/7.m3u8
 
