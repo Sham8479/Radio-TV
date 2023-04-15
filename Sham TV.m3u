@@ -32,177 +32,159 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", CH101 TV1 FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", CH101 TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV2" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", CH102 TV2 FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV2" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", CH102 TV2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV3" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", CH103 TV3 FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV3" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", CH103 TV3 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="DramaSangat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png/revision/latest/scale-to-width-down/250?cb=20210911080527", Drama Sangat HD
+#EXTINF:-1 group-title="myFreeview" tvg-id="DramaSangat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png/revision/latest/scale-to-width-down/250?cb=20210911080527", Drama Sangat HD
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", CH113 TV6 FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", CH113 TV6 FHD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", CH114 TV AlHijrah FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", CH114 TV AlHijrah FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TVIKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png", TV IKIM FHD
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", CH116 Suke TV FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", CH116 Suke TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
 https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", CH122 TVS FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", CH122 TVS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png", CH123 Awesome TV FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png", CH123 Awesome TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://aqfadtv.xyz/live/awesometv/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png", CH147 DidikTV KPM FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png", CH147 DidikTV KPM FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", CH148 8TV FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", CH148 8TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 https://aqfadtv.xyz/live/8tv/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", CH149 TV9 FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", CH149 TV9 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 https://aqfadtv.xyz/live/tv9/index.mpd
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405", CH146 OKEY FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405", CH146 OKEY FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" tvg-id="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV HD
+#EXTINF:-1 group-title="myFreeview" tvg-id="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" channel id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
 
-#EXTINF:-1 group-title="myFreeview" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MyFreeview_logo.png/440px-MyFreeview_logo.png" channel id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
 ############################################################ ASTRO ############################################################################################
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
-#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
-https://speedtrademarket.com/vip/ria.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
 https://aqfadtv.xyz/live/prima/index.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png", CH106 Astro Oasis FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png", CH106 Astro Oasis FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-https://speedtrademarket.com/vip/warna.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
-#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
-https://speedtrademarket.com/vip/citra.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 http://hotz.vip:2082/ejumjom/ejumjom/28
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroSensasi" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", CH109 Astro Sensasi HD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", CH109 Astro Sensasi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
 
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", CH112 Astro Rania FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png", CH112 Astro Rania FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroAura" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544", CH113 Astro Aura FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroAura" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544", CH113 Astro Aura FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png", CH201 Astro Vaanavil FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png", CH201 Astro Vaanavil FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
 #https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_09.m3u8
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroVinmeen" ch-number="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png", CH202 Astro Vinmeen FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroVinmeen" ch-number="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png", CH202 Astro Vinmeen FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png", CH203 Astro Vellithirai FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png", CH203 Astro Vellithirai FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AboMoviesThangathirai" ch-number="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png", CH241 ABO Movies Thangathirai FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AboMoviesThangathirai" ch-number="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png", CH241 ABO Movies Thangathirai FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
@@ -212,103 +194,103 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH304 Astro Xiao Tai Yang FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH304 Astro Xiao Tai Yang FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png", CH306 Astro AEC FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png", CH306 Astro AEC FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/
 
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroShuangXing" ch-number="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png", CH307 Astro Shuang Xing FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroShuangXing" ch-number="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png", CH307 Astro Shuang Xing FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2403
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroQuanJia" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png", CH308 Astro Quan Jia FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroQuanJia" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png", CH308 Astro Quan Jia FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroAOD311" ch-number="311" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH311 Astro AOD FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroAOD311" ch-number="311" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH311 Astro AOD FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709", CH333 Astro Hua Hee Dai FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709", CH333 Astro Hua Hee Dai FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroAOD352" ch-number="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH352 Astro AOD SD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroAOD352" ch-number="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH352 Astro AOD SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroAOD354" ch-number="354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH354 Astro AOD SD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroAOD354" ch-number="354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png", CH354 Astro AOD SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png", CH611 Astro Ceria FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png", CH611 Astro Ceria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 ########################################################## UNIFI TV ###########################################################################################
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH113 Unifi Salam HD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="113.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", CH113 Unifi Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
 https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKXZymIOewmMAQQswOT%2FvRFbJbdq%2F2zpqJl%2FfRpIenwXaaN28IaPi3E%2F6oqPoWmHXXeSdw1WP%2FKd%2BvtaqQ%2Fle%2BCttLA9oASg%2FQ18G58eqUUP%3A20230414062527%3AUTC%2C10001002129842%2C180.75.252.80%2C20230414062527%2Curn:Huawei:liveTV:iptv47777%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY-CMBhE_02PDaVU9NCTGxMTgyayXs3YflRCodqiif9-RdnrzLzJGyMMbX90eSmwIpGVKrcFUblUVBppFTWmkQZgie5V0Dkz8L4dXBXshJ2O67PIeMbzXHAhWT3dbTzcvKwe_YWiFv_YkeKzNaRtavgTicO5SA5jGwZ-8Hj9Rj9PGNWzmlgsRbEQKyVlodg4pTVS927YFWkd-hsi2V1wH0A38InYDaaDowo96eHh_ZfbR_u2-QOKiwr-9AAAAA&tenantId=6003
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", CH116 Unifi Sensasi FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", CH116 Unifi Sensasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Inspirasi" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", CH118 Unifi Inspirasi FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="Inspirasi" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", CH118 Unifi Inspirasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Degup" tvg-chno="120" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", CH120 Unifi Degup FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="Degup" tvg-chno="120" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", CH120 Unifi Degup FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="Siar" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", CH121 Unifi Siar FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="Siar" tvg-chno="121" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", CH121 Unifi Siar FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" tvg-id="DuniaSinema" tvg-chno="128" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", CH128 Unifi Dunia Sinema FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="DuniaSinema" tvg-chno="128" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", CH128 Unifi Dunia Sinema FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH141 Unifi Pesona FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="141.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png", CH141 Unifi Pesona FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="288.unifi" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH288 Unifi Calestial Movie FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="288.unifi" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", CH288 Unifi Calestial Movie FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
 https://web.hypp.tv/PLTV/88888888/224/3221227826/3221227826.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbBbVchu5bp4ldjPfr44H0c2pnIbyMSj8DafiaVMYbR8m%2Bbnw8552r5kwLIwaEGkzWBTg0bWB3G7dla%2Fj69CGsgCVFRTQiCcWXuFIeO21qkbF%3A20230404041732%3AUTC%2C10001002129788%2C115.135.197.59%2C20230404041732%2Curn:Huawei:liveTV:XTV51882317%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C1528804378%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSQCstXbDSmJiYamJ1a77wwaa0KFQTb6_Vup2ZN3ljBI2blcKKM6O5KIsqXwhr5UVXssACRaatFIYkvNdBZUSD9-3g6mAm7HRYnjmjjGYZp7wkzXS39uDmZf3oLxgV_2MHjM9WozLJ0ickCs5FdDC2YaB7D69j9POEYDOr8UIyUeWlzEu2IOOUNpC6T0OukJahv0FEsw3uCygLPiG5ge7AYQ09quHh_Y_bRfOxeQMeV___9AAAAA&tenantId=6003
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="473.unifi" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275762486%27&EntityType=%27Item%27&EntityId=%27227348%27&Width=1494&Height=800" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH473 Unifi Rock Entertainment FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="473.unifi" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275762486%27&EntityType=%27Item%27&EntityId=%27227348%27&Width=1494&Height=800", CH473 Unifi Rock Entertainment FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 https://web.hypp.tv/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
 
-#EXTINF:-1 group-title="Unifi TV" tvg-id="474.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png", CH474 Unifi Rock Action FHD
+#EXTINF:-1 group-title="Unifi TV" tvg-id="474.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829", CH474 Unifi Rock Action FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
@@ -316,463 +298,463 @@ https://web.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.t
 
 ########################################################## MEDIACORP ##########################################################################################
 
-#EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png"l tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5 
+#EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
 https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" group-title="Mediacorp" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
+#EXTINF:-1 tvg-id="Ch 8" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
 https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
-#EXTINF:-1 tvg-id="Ch U" group-title="Mediacorp" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U 
+#EXTINF:-1 tvg-id="Ch U" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
-#EXTINF:-1 tvg-id="Suria" group-title="Mediacorp" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria 
+#EXTINF:-1 tvg-id="Suria" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
 https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" group-title="Mediacorp" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Channel Vasantham 
+#EXTINF:-1 tvg-id="Vasantham" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Channel Vasantham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
 ########################################################### RTB GO ############################################################################################
 
-#EXTINF:-1 group-title="RTB Go" group-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera FHD
+#EXTINF:-1 group-title="RTB Go" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera FHD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 group-title="RTB Go" group-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka FHD
+#EXTINF:-1 group-title="RTB Go" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka FHD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 group-title="RTB Go" group-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live FHD
+#EXTINF:-1 group-title="RTB Go" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live FHD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 ########################################################## CHINESE ############################################################################################
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", CH300 IQIYI FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", CH300 IQIYI FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="TVBClassic" ch-number="305" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png", CH305 TVB Classic FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="TVBClassic" ch-number="305" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png", CH305 TVB Classic FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", CH309 Celestial Movies FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", CH309 Celestial Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="TVBJade" ch-number="310" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi", CH310 TVB Jade FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="TVBJade" ch-number="310" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi", CH310 TVB Jade FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2600
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="CTIAsia" ch-number="316" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png", CH316 CTI Asia FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="CTIAsia" ch-number="316" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png", CH316 CTI Asia FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5017
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="TVBEntertainmentNews" ch-number="317" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png", CH317 TVB Entertainment News FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="TVBEntertainmentNews" ch-number="317" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png", CH317 TVB Entertainment News FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5015
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="TVBXingHe" ch-number="319" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png", CH319 TVB Xing He FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="TVBXingHe" ch-number="319" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png", CH319 TVB Xing He FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/401
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="TVBSAsia" ch-number="320" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png", CH320 TVBS Asia FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="TVBSAsia" ch-number="320" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png", CH320 TVBS Asia FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/402
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="CCM" ch-number="321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png", CH321 CCM SD
+#EXTINF:-1 group-title="Chinese" tvg-id="CCM" ch-number="321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png", CH321 CCM SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="PhoenixChineseChannel" ch-number="325" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png", CH325 Phoenix Chinese Channel FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="PhoenixChineseChannel" ch-number="325" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png", CH325 Phoenix Chinese Channel FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
 http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="PhoenixInfoNews" ch-number="326" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png", CH326 Phoenix Info News FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="PhoenixInfoNews" ch-number="326" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png", CH326 Phoenix Info News FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5009
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png" tvg-id="CCTV4" ch-number="335" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png", CH335 CCTV4 FHD
+#EXTINF:-1 group-title="Chinese" tvg-id="CCTV4" ch-number="335" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png", CH335 CCTV4 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 ####################################################################### INDIAN ################################################################################
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="ColorsHindi" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png", CH116 Colors Hindi HD
+#EXTINF:-1 tvg-id="ColorsHindi" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png", CH116 Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2611/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="SunTV" ch-number="211" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png", CH211 Sun TV FHD
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png", CH211 Sun TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="Sun Music" ch-number="212" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png", CH212 Sun Music FHD
+#EXTINF:-1 tvg-id="Sun Music" ch-number="212" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png", CH212 Sun Music FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 
-#EXTINF:-1  group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="Adithya" ch-number="214" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png", CH214 Adithya SD
+#EXTINF:-1 tvg-id="Adithya" ch-number="214" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png", CH214 Adithya SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="SunNews" ch-number="215" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png", CH215  Sun News FHD
+#EXTINF:-1 tvg-id="SunNews" ch-number="215" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png", CH215  Sun News FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="KTV" ch-number="216" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png", CH216 KTV FHD
+#EXTINF:-1 tvg-id="KTV" ch-number="216" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png", CH216 KTV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="SunLife" ch-number="217" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png", CH217 Sun Life FHD
+#EXTINF:-1 tvg-id="SunLife" ch-number="217" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png", CH217 Sun Life FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="StarVijay" ch-number="221" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png", CH221 Star Vijay FHD
+#EXTINF:-1 tvg-id="StarVijay" ch-number="221" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png", CH221 Star Vijay FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="ColorTamil" ch-number="222" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", CH222 Colors Tamil FHD
+#EXTINF:-1 tvg-id="ColorTamil" ch-number="222" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", CH222 Colors Tamil FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
-#EXTINF:-1 group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" tvg-id="ZeeTamil" ch-number="223" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png", CH223 Zee Tamil FHD
+#EXTINF:-1 tvg-id="ZeeTamil" ch-number="223" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png", CH223 Zee Tamil FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 ###################################################################### JAPANESE ###############################################################################
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528", Nippon TV
+#EXTINF:-1 group-title="Japanese" tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528", Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png", Fuji TV (480p)
+#EXTINF:-1 group-title="Japanese" tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png", Fuji TV (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png", TV Asahi (480p)
+#EXTINF:-1 group-title="Japanese" tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png", TV Asahi (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/gHdoEc3.png", TV Tokyo (480p)
+#EXTINF:-1 group-title="Japanese" tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/gHdoEc3.png", TV Tokyo (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="MBS.jp" tvg-name="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+#EXTINF:-1 group-title="Japanese" tvg-id="MBS.jp" tvg-name="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/220px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+#EXTINF:-1 group-title="Japanese" tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/220px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", Animax (480p)
+#EXTINF:-1 group-title="Japanese" tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", Animax (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png", AT-X (720p)
+#EXTINF:-1 group-title="Japanese" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png", AT-X (720p)
 https://sub.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/mEERmXh.png" group-title="Japanese", Kids Station (540p) [Not 24/7]
+#EXTINF:-1 group-title="Japanese" tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/mEERmXh.png" group-title="Japanese", Kids Station (540p) [Not 24/7]
 
-#EXTINF:-1 group-title="Japanese" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png", Jidaigeki Senmon Channel (540p)
+#EXTINF:-1 group-title="Japanese" tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png", Jidaigeki Senmon Channel (540p)
 
 
 ###################################################################### KOREAN #################################################################################
 
-#EXTINF:-1 group-title="Korean" group-logo="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" tvg-id="KBSWorld" ch-number="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", CH392 KBS World FHD
+#EXTINF:-1 group-title="Korean" tvg-id="KBSWorld" ch-number="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", CH392 KBS World FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
-#EXTINF:-1 group-title="Korean" group-logo="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" tvg-id="ONE" ch-number="393" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", CH393 ONE HD 
+#EXTINF:-1 group-title="Korean" tvg-id="ONE" ch-number="393" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", CH393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
-#EXTINF:-1 group-title="Korean" group-logo="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" tvg-id="tvN" ch-number="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", CH395 tvN FHD
+#EXTINF:-1 group-title="Korean" tvg-id="tvN" ch-number="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", CH395 tvN FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 group-title="Korean" group-logo="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" tvg-id="K-Plus" ch-number="396" tvg-logo="https://i.imgur.com/QYR53ti.png", CH396 KPlus FHD
+#EXTINF:-1 group-title="Korean" tvg-id="K-Plus" ch-number="396" tvg-logo="https://i.imgur.com/QYR53ti.png", CH396 KPlus FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-1 group-title="Korean" group-logo="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" tvg-id="tvNMovies" ch-number="416" tvg-logo="https://playtv.unifi.com.my:7050/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png", CH416 tvN Movies FHD 
+#EXTINF:-1 group-title="Korean" tvg-id="tvNMovies" ch-number="416" tvg-logo="https://playtv.unifi.com.my:7050/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png", CH416 tvN Movies FHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 ##################################################################### LIFESTYLE ###############################################################################
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="TLC" ch-number="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", CH707 TLC FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TLC" ch-number="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", CH707 TLC FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="FoodNetwork" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png", CH708 Food Network FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FoodNetwork" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png", CH708 Food Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="AFN" ch-number="709" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png", CH709 Asian Food Network FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="AFN" ch-number="709" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png", CH709 Asian Food Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="HGTV" ch-number="715" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", CH715 HGTV FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="HGTV" ch-number="715" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png", CH715 HGTV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="DMAX" ch-number="716" tvg-logo="https://image-service.goldbach.com/5Fd6NxHwSJ-Hy8QDz7LDvyff7P8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f6/2021/04/131022_dmax_tm_logo_negativ2_rgb-1.png", CH716 DMAX FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="DMAX" ch-number="716" tvg-logo="https://image-service.goldbach.com/5Fd6NxHwSJ-Hy8QDz7LDvyff7P8=/0x200/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f6/2021/04/131022_dmax_tm_logo_negativ2_rgb-1.png", CH716 DMAX FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://intra.com.ph/wp-content/uploads/2020/10/whitelogo.png" tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png", CH717 BBC Lifestyle FHD
+#EXTINF:-1 group-title="Lifestyle" tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png", CH717 BBC Lifestyle FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
 ################################################################### DOCUMENTARY ##############################################################################
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="LoveNature" ch-number="549" tvg-name="Love Nature 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/Love_Nature_4K_logo.png/revision/latest/scale-to-width-down/1600?cb=20221225090807&path-prefix=vi", CH549 Love Nature 4K FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="LoveNature4K" ch-number="549" tvg-name="Love Nature 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/Love_Nature_4K_logo.png/revision/latest/scale-to-width-down/1600?cb=20221225090807&path-prefix=vi", CH549 Love Nature 4K FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5097
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="LoveNature" ch-number="550" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", CH550 Love Nature FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="LoveNature" ch-number="550" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", CH550 Love Nature FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5096
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
-#EXTINF:-1 group-title="Documentary"  group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="GlobalTrekker" ch-number="551" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png", CH551 Global Trekker FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="GlobalTrekker" ch-number="551" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png", CH551 Global Trekker FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5094
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="DiscoveryChannel" ch-number="552" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png", CH552 Discovery Channel FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel" ch-number="552" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png", CH552 Discovery Channel FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="DiscoveryAsia" ch-number="553" tvg-logo="https://static1.squarespace.com/static/62821a0e46c8af53df7dc8ac/t/62e20a64aec9d111e7a2a991/1658980965004/channel_logo_DASIA+%281%29.png", CH553 Discovery Asia FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryAsia" ch-number="553" tvg-logo="https://static1.squarespace.com/static/62821a0e46c8af53df7dc8ac/t/62e20a64aec9d111e7a2a991/1658980965004/channel_logo_DASIA+%281%29.png", CH553 Discovery Asia FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="BBCEarth" ch-number="554" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png", CH554 BBC Earth FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="BBCEarth" ch-number="554" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png", CH554 BBC Earth FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="History" ch-number="555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png", CH555 History FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="History" ch-number="555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png", CH555 History FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="AnimalPlanet" ch-number="556" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png", CH556 Animal Planet FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="AnimalPlanet" ch-number="556" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png", CH556 Animal Planet FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" tvg-id="C&I.cn" ch-number="714" tvg-logo="https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/vxej8gxotm7gtzvuwaeg", CH714 Crime + Investigation FHD
+#EXTINF:-1 group-title="Documentary" tvg-id="C&I.cn" ch-number="714" tvg-logo="https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/vxej8gxotm7gtzvuwaeg", CH714 Crime + Investigation FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
 
 ################################################################### ENTERTAINMENT #############################################################################
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="AXN" ch-number="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png", CH701 AXN HD
+#EXTINF:-1 group-title="Entertainment" tvg-id="AXN" ch-number="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png", CH701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", CH703 Lifetime FHD
+#EXTINF:-1 group-title="Entertainment" tvg-id="Lifetime" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", CH703 Lifetime FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="Primetime" ch-number="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png", CH704 PRIMEtime FHD
+#EXTINF:-1 group-title="Entertainment" tvg-id="Primetime" ch-number="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png", CH704 PRIMEtime FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="HITS" ch-number="706" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png", CH706 HITS FHD
+#EXTINF:-1 group-title="Entertainment" tvg-id="HITS" ch-number="706" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png", CH706 HITS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="WarnerTV" ch-number="712" tvg-logo="https://business.voo.be/thumbor/fit-in/768x/--/static/@shared/logos/channels/warner-tv.png", CH712 Warner TV FHD
+#EXTINF:-1 group-title="Entertainment" tvg-id="WarnerTV" ch-number="712" tvg-logo="https://business.voo.be/thumbor/fit-in/768x/--/static/@shared/logos/channels/warner-tv.png", CH712 Warner TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://daryldixon.gala100.net/wp-content/uploads/2018/08/ENTERTAINMENT-WEEKLY-1024x236.png" tvg-id="ParamountNetwork" ch-number="713" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png", CH713 Paramount Network HD
+#EXTINF:-1 group-title="Entertainment" tvg-id="ParamountNetwork" ch-number="713" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png", CH713 Paramount Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
 #################################################################### ISLAMIC ##################################################################################
 
-#EXTINF:-1 group-title="Islamic" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Star_and_Crescent.svg/220px-Star_and_Crescent.svg.png" tvg-id="AlQuranAlKareemTV" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2Fjan%2FQuraan_channel_logo%2Foriginal%2FQuraan_channel_logo.png%3Fheight%3DNaN%26width%3D432%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1024&q=75", Al Quran Al Kareem FHD (Makkah)
+#EXTINF:-1 group-title="Islamic" tvg-id="AlQuranAlKareemTV" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2Fjan%2FQuraan_channel_logo%2Foriginal%2FQuraan_channel_logo.png%3Fheight%3DNaN%26width%3D432%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1024&q=75", Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
 https://edge.taghtia.com/sa/7.m3u8
 
-#EXTINF:-1 group-title="Islamic" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Star_and_Crescent.svg/220px-Star_and_Crescent.svg.png", Al Sunnah Al Nabawiyah FHD (Medina)
+#EXTINF:-1 group-title="Islamic" tvg-id="AlSunnahAlNabawiyah" tvg-logo=", Al Sunnah Al Nabawiyah FHD (Medina)
 #EXTVLCOPT:network-caching=1000
 
 
 ################################################################# TOEI TOKUSATSU ##############################################################################
 
-#EXTINF:-1 group-title="Toei Tokusatsu" group-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Toei_Tokusatsu_World_Official.png/revision/latest/scale-to-width-down/340?cb=20200908171101" tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610", Toei Channel (540p) [Not 24/7]
+#EXTINF:-1 group-title="Toei Tokusatsu" tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610", Toei Channel (540p) [Not 24/7]
 https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 
-#EXTINF:-1 group-title="Toei Tokusatsu" group-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Toei_Tokusatsu_World_Official.png/revision/latest/scale-to-width-down/340?cb=20200908171101" tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png", TokuSHOUTsu
+#EXTINF:-1 group-title="Toei Tokusatsu"  tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png", TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2430&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 ##################################################################### ANIME ###################################################################################
 
-#EXTINF:-1 group-title="Anime" group-logo="https://www.pngmart.com/files/Anime-Logo-PNG-Isolated-File.png" tvg-id="Animax" ch-number="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax FHD
+#EXTINF:-1 group-title="Anime" tvg-id="Animax" ch-number="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 group-title="Anime" group-logo="https://www.pngmart.com/files/Anime-Logo-PNG-Isolated-File.png" tvg-chno="2360" tvg-id="Anime All Day" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png", Anime All Day
+#EXTINF:-1 group-title="Anime" tvg-chno="2360" tvg-id="Anime All Day" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png", Anime All Day
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2360&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="Anime" group-logo="https://www.pngmart.com/files/Anime-Logo-PNG-Isolated-File.png" tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
+#EXTINF:-1 group-title="Anime" tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://103.167.167.5:8111/play/a033/index.m3u8
 
-#EXTINF:-1 group-title="Anime" group-logo="https://upload.wikimedia.org/wikipedia/fr/c/cc/%40Anime_Logo.png" tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png", CONtv Anime
+#EXTINF:-1 group-title="Anime" tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png", CONtv Anime
 
 #################################################################### KIDS #####################################################################################
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="Dreamworks" ch-number="612' tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png", CH612 Dreamworks HD
+#EXTINF:-1 group-title="Kids" tvg-id="Dreamworks" ch-number="612' tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png", CH612 Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="CartoonNetwork" ch-number="615" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png", CH615 Cartoon Network HD
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonNetwork" ch-number="615" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png", CH615 Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="Nickelodeon" ch-number="616" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png", CH616 Nickelodeon FHD
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon" ch-number="616" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png", CH616 Nickelodeon FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="NickJr" ch-number="617" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", CH617 Nick Jr. HD
+#EXTINF:-1 group-title="Kids" tvg-id="NickJr" ch-number="617" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", CH617 Nick Jr. HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="MoonbugKids" ch-number="618" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png", CH618 Moonbug Kids FHD
+#EXTINF:-1 group-title="Kids" tvg-id="MoonbugKids" ch-number="618" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png", CH618 Moonbug Kids FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="Boomerang" ch-number="619" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png", CH619 Boomerang FHD
+#EXTINF:-1 group-title="Kids" tvg-id="Boomerang" ch-number="619" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png", CH619 Boomerang FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-#EXTINF:-1 group-title="Kids" group-logo="https://w7.pngwing.com/pngs/731/774/png-transparent-ice-cream-child-calippo-surprise-eggs-kids-app-atm-simulator-kids-learning-kids-game-text-rectangle-thumbnail.png" tvg-id="CBeebies" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png", CH620 CBeebies FHD
+#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png", CH620 CBeebies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5093
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
 #################################################################### MOVIES ##################################################################################
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="HITSMovies" ch-number="401" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", CH401 HITS Movies FHD
+#EXTINF:-1 group-title="Movies" tvg-id="HITSMovies" ch-number="401" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", CH401 HITS Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="BOO" ch-number="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", CH404 BOO FHD 
+#EXTINF:-1 group-title="Movies" tvg-id="BOO" ch-number="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", CH404 BOO FHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="HBO" ch-number="411" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505", CH411 HBO FHD
+#EXTINF:-1 group-title="Movies" tvg-id="HBO" ch-number="411" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505", CH411 HBO FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="Cinemax" ch-number="412" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CH412 Cinemax FHD
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax" ch-number="412" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CH412 Cinemax FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="ShowcaseMovies" ch-number="413" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", CH413 Showcase Movies FHD
+#EXTINF:-1 group-title="Movies" tvg-id="ShowcaseMovies" ch-number="413" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", CH413 Showcase Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="414" tvg-name="HBO Family" ch-number="414" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122", CH414 HBO Family FHD
+#EXTINF:-1 group-title="Movies" tvg-id="414" tvg-name="HBO Family" ch-number="414" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122", CH414 HBO Family FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
-#EXTINF:-1 group-title="Movies" group-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" tvg-id="415" tvg-name="HBO Hits" ch-number="415" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", CH415 HBO Hits FHD
+#EXTINF:-1 group-title="Movies" tvg-id="415" tvg-name="HBO Hits" ch-number="415" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", CH415 HBO Hits FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 #################################################################### NEWS ####################################################################################
 
-#EXTINF:-1 group-title="News" group-logo="https://w7.pngwing.com/pngs/982/544/png-transparent-news-graphy-logo-icon-news-logo-text-photography-computer-wallpaper.png" tvg-id="BeritaRTM" ch-number="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", CH123 Berita RTM FHD
+#EXTINF:-1 group-title="News" tvg-id="BeritaRTM" ch-number="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", CH123 Berita RTM FHD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="News" group-logo="https://w7.pngwing.com/pngs/982/544/png-transparent-news-graphy-logo-icon-news-logo-text-photography-computer-wallpaper.png" tvg-id="AstroAwani" ch-number="501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest?cb=20200922172412", CH501 Astro Awani FHD
+#EXTINF:-1 group-title="News" tvg-id="AstroAwani" ch-number="501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest?cb=20200922172412", CH501 Astro Awani FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
-#EXTINF:-1 group-title="News" group-logo="https://w7.pngwing.com/pngs/982/544/png-transparent-news-graphy-logo-icon-news-logo-text-photography-computer-wallpaper.png" tvg-id="BernamaTV" ch-number="502" tvg-logo="https://bernama.com/bm/img/bernama.png", CH502 BERNAMA FHD
+#EXTINF:-1 group-title="News" tvg-id="BernamaTV" ch-number="502" tvg-logo="https://bernama.com/bm/img/bernama.png", CH502 BERNAMA FHD
 https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
 
 ################################################################## SPORTS ####################################################################################
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="UnifiSport1" ch-number="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848", CH701 Unifi Sport 1 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="UnifiSport1" ch-number="701" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848", CH701 Unifi Sport 1 FHD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", CH801 ASTRO ARENA FHD
+#EXTINF:-1 group-title="Sports"  tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", CH801 ASTRO ARENA FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroArena2" ch-number="802" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", CH802 ASTRO ARENA 2 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroArena2" ch-number="802" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", CH802 ASTRO ARENA 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -780,12 +762,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd4a346e-a383-4e54-ad2f-4ebe40339cbc/dfp286c-7581a01d-87dc-4a6d-8a9b-3fbd8eaa7c1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkNGEzNDZlLWEzODMtNGU1NC1hZDJmLTRlYmU0MDMzOWNiY1wvZGZwMjg2Yy03NTgxYTAxZC04N2RjLTRhNmQtOGE5Yi0zZmJkOGVhYTdjMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wuD-2cAsbndLRaskBtY0Fb0vHZ-SGi_7GWfEZDooymM", CH803 ASTRO ARENA BOLA FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd4a346e-a383-4e54-ad2f-4ebe40339cbc/dfp286c-7581a01d-87dc-4a6d-8a9b-3fbd8eaa7c1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkNGEzNDZlLWEzODMtNGU1NC1hZDJmLTRlYmU0MDMzOWNiY1wvZGZwMjg2Yy03NTgxYTAxZC04N2RjLTRhNmQtOGE5Yi0zZmJkOGVhYTdjMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wuD-2cAsbndLRaskBtY0Fb0vHZ-SGi_7GWfEZDooymM", CH803 ASTRO ARENA BOLA FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", CH804 ASTRO ARENA BOLA 2 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", CH804 ASTRO ARENA BOLA 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -793,348 +775,348 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="SPOTV2" ch-number="810" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", CH810 SPOTV 2 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="SPOTV2" ch-number="810" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", CH810 SPOTV 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", CH811 Astro SuperSport FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", CH811 Astro SuperSport FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", CH812 Astro SuperSport 2 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", CH812 Astro SuperSport 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", CH813 Astro SuperSport 3 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", CH813 Astro SuperSport 3 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 HD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png", CH815 Astro Supersport 5 FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png", CH815 Astro Supersport 5 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="SPOTV" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", CH816 SPOTV FHD
+#EXTINF:-1 group-title="Sports" tvg-id="SPOTV" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", CH816 SPOTV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png", CH821 WWE Network FHD
+#EXTINF:-1 group-title="Sports" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png", CH821 WWE Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png",IMPACT! Wrestling FHD
+#EXTINF:-1 group-title="Sports" tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png",IMPACT! Wrestling FHD
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="TNAWrestling.us" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190322115532/tna-impact.png", TNA Wrestling FHD
+#EXTINF:-1 group-title="Sports" tvg-id="TNAWrestling.us" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190322115532/tna-impact.png", TNA Wrestling FHD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", CH824 Astro Cricket FHD
+#EXTINF:-1 group-title="Sports" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", CH824 Astro Cricket FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 ############################################################### RADIO YOUTUBE ################################################################################
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo=" https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo=" https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="HOT" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400",HOT FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="HOT" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400",HOT FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="BULETINFM" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="BULETINFM" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="FLYFM"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="FLYFM"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="8FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="8FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MY HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MY HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MY.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MIX.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Melody.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
 
 ################################################################# RADIO SWASTA ###############################################################################
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
 https://astro2.rastream.com/sinar
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
 https://astro2.rastream.com/era
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="HOT" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400",HOT FM 
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="HOT" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400",HOT FM 
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="BULETINFM" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="BULETINFM" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 https://astro3.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
 https://astro3.rastream.com/astro-zayan-airasia
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", Radio IKIM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", Radio IKIM
 https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODAxODg2NzksImV4cCI6MTY4MDI3NTA3OX0.QDhm-0FkFQ7vicvGU105uSXilmHKIErALxEmjv821Eg&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="BESTFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",BEST FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="BESTFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
 https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MAKMURFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MAKMURFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="FLYFM" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="FLYFM" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="8FM" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="8FM" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
 https://astro1.rastream.com/hitz
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
 https://astro1.rastream.com/myfm
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
 https://astro1.rastream.com/lite.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzU3NjQ4MzcsImlhdCI6MTY3NTY3ODQzNywib2lkIjoiZXJhLXlvdXR1YmUifQ.U8lgdAE4xDPO79iAmcPC-ruDzmUKT6kowrEzk5bSUS0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22en%22%5D&setLanguage=true
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
 https://astro2.rastream.com/mix
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo=" https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://astro3.rastream.com/melody
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo=" https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN
 https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzU3NjM4NjUsImlhdCI6MTY3NTY3NzQ2NSwib2lkIjoiZXJhLXlvdXR1YmUifQ.gTe2n-wy9O2Nq9MTRmyUTdV2odACVVuS2rWgqhedeEc&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22zh%22%5D&setLanguage=true
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
 https://astro3.rastream.com/raaga
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CLASSICROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png",SYOK CLASSIC ROCK
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CLASSICROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png",SYOK CLASSIC ROCK
 https://astro4.rastream.com/rock
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK GOLD
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK GOLD
 https://astro4.rastream.com/gold
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="OPUS" ch-number="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",SYOK OPUS
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="OPUS" ch-number="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",SYOK OPUS
 https://astro4.rastream.com/opus
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="INDIABEAT" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK INDIA BEAT
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="INDIABEAT" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK INDIA BEAT
 https://astro4.rastream.com/india
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.xyz/logos/SyokJazz2021.png",SYOK JAZZ
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.xyz/logos/SyokJazz2021.png",SYOK JAZZ
 https://astro4.rastream.com/jazz
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK OSAI
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK OSAI
 https://astro4.rastream.com/osai
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK BAYU
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK BAYU
 https://astro4.rastream.com/bayu
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png",SYOK KENYALANG
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png",SYOK KENYALANG
 https://astro4.rastream.com/kenyalang
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="988" ch-number="988" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/988_Logo_-_Transparent.png/640px-988_Logo_-_Transparent.png",988
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="988" ch-number="988" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/988_Logo_-_Transparent.png/640px-988_Logo_-_Transparent.png",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA SABAH
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA SABAH
 https://astro2.rastream.com/amp-era-kk
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA SARAWAK
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA SARAWAK
 https://astro2.rastream.com/amp-era-kch
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ SABAH
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ SABAH
 https://astro1.rastream.com/amp-hitz-kk
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ SARAWAK
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ SARAWAK
 https://astro1.rastream.com/amp-hitz-kch
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MY SABAH
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MY SABAH
 https://astro1.rastream.com/amp-myfm-kk
 
-#EXTINF:-1 group-title="Radio Swasta" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY SARAWAK
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY SARAWAK
 https://astro1.rastream.com/amp-myfm-kch
 
 
 ################################################################ RADIO NASIONAL ##############################################################################
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="RadioKlasik" channel id="RTMK09" radio="true" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",RADIO KLASIK
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="RadioKlasik" channel id="RTMK09" radio="true" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",RADIO KLASIK
 https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="NasionalFM" channel id="RTMK10" group-title="Radio Nasional" radio="true" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",NASIONAL FM
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="NasionalFM" channel id="RTMK10" group-title="Radio Nasional" radio="true" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",NASIONAL FM
 https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="TraxxFM" channel id="RTMK11" group-title="Radio Nasional" radio="true" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",TRAXX FM
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="TraxxFM" channel id="RTMK11" group-title="Radio Nasional" radio="true" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",TRAXX FM
 https://22243.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="AiFM" channel id="RTMK12" group-title="Radio Nasional" radio="true" tvg-logo="https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png",AI FM 
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="AiFM" channel id="RTMK12" group-title="Radio Nasional" radio="true" tvg-logo="https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png",AI FM 
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MinnalFM" channel id="RTMK13" group-title="Radio Nasional" radio="true" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png",MINNAL FM 
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="MinnalFM" channel id="RTMK13" group-title="Radio Nasional" radio="true" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png",MINNAL FM 
 https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Nasional" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="AsyikFM" channel id="RTMK14" group-title="Radio Nasional" radio="true" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png",ASYIK FM
+#EXTINF:-1 group-title="Radio Nasional" tvg-id="AsyikFM" channel id="RTMK14" group-title="Radio Nasional" radio="true" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png",ASYIK FM
 https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
 
 ################################################################ RADIO NEGERI ################################################################################
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="PerlisFM" channel id="RTMK29" radio="true" tvg-logo="https://perlisfm.rtm.gov.my/storage/app/uploads/public/606/49d/f60/60649df60c210090408790.png", PERLIS FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="PerlisFM" channel id="RTMK29" radio="true" tvg-logo="https://perlisfm.rtm.gov.my/storage/app/uploads/public/606/49d/f60/60649df60c210090408790.png", PERLIS FM
 https://22243.live.streamtheworld.com/PERLIS_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="KedahFM" channel id="RTMK19" radio="true" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png", KEDAH FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="KedahFM" channel id="RTMK19" radio="true" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png", KEDAH FM
 https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MutiaraFM" channel id="RTMK28" radio="true" tvg-logo="https://mutiarafm.rtm.gov.my/storage/app/uploads/public/606/559/1e5/6065591e52cc5940366871.png", MUTIARA FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="MutiaraFM" channel id="RTMK28" radio="true" tvg-logo="https://mutiarafm.rtm.gov.my/storage/app/uploads/public/606/559/1e5/6065591e52cc5940366871.png", MUTIARA FM
 https://22243.live.streamtheworld.com/MUTIARA_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="PerakFM" channel id="RTMK27" radio="true" tvg-logo="https://perakfm.rtm.gov.my/storage/app/uploads/public/606/796/720/6067967209f03940577850.png", PERAK FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="PerakFM" channel id="RTMK27" radio="true" tvg-logo="https://perakfm.rtm.gov.my/storage/app/uploads/public/606/796/720/6067967209f03940577850.png", PERAK FM
 https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="KelantanFM" channel id="RTMK21" radio="true" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png", KELANTAN FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="KelantanFM" channel id="RTMK21" radio="true" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png", KELANTAN FM
 https://22243.live.streamtheworld.com/KELANTAN_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="TerengganuFM" channel id="RTMK22" radio="true" tvg-logo="https://terengganufm.rtm.gov.my/storage/app/uploads/public/608/0c4/aa5/6080c4aa5cee6724395241.png", TERENGGANU FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="TerengganuFM" channel id="RTMK22" radio="true" tvg-logo="https://terengganufm.rtm.gov.my/storage/app/uploads/public/608/0c4/aa5/6080c4aa5cee6724395241.png", TERENGGANU FM
 https://22243.live.streamtheworld.com/TERENGGANU_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="PahangFM" channel id="RTMK23" radio="true" tvg-logo="https://pahangfm.rtm.gov.my/storage/app/uploads/public/606/5a9/7b6/6065a97b66fe4427740736.png", PAHANG FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="PahangFM" channel id="RTMK23" radio="true" tvg-logo="https://pahangfm.rtm.gov.my/storage/app/uploads/public/606/5a9/7b6/6065a97b66fe4427740736.png", PAHANG FM
 https://22243.live.streamtheworld.com/PAHANG_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SelangorFM" channel id="RTMK15" radio="true" tvg-logo="https://selangorfm.rtm.gov.my/storage/app/uploads/public/610/367/6c3/6103676c39796539215056.png", SELANGOR FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="SelangorFM" channel id="RTMK15" radio="true" tvg-logo="https://selangorfm.rtm.gov.my/storage/app/uploads/public/610/367/6c3/6103676c39796539215056.png", SELANGOR FM
 https://22243.live.streamtheworld.com/SELANGOR_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="KLFM" channel id="RTMK20" radio="true" tvg-logo="https://klfm.rtm.gov.my/storage/app/uploads/public/610/364/fdb/610364fdb3d09238710912.png", KL FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="KLFM" channel id="RTMK20" radio="true" tvg-logo="https://klfm.rtm.gov.my/storage/app/uploads/public/610/364/fdb/610364fdb3d09238710912.png", KL FM
 https://23733.live.streamtheworld.com/KL_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="NegeriFM" channel id="RTMK25" radio="true" tvg-logo="https://negerifm.rtm.gov.my/storage/app/uploads/public/606/810/1b2/6068101b2a2c3557917530.png", NEGERI FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="NegeriFM" channel id="RTMK25" radio="true" tvg-logo="https://negerifm.rtm.gov.my/storage/app/uploads/public/606/810/1b2/6068101b2a2c3557917530.png", NEGERI FM
 https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MelakaFM" channel id="RTMK30" radio="true" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png", MELAKA FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="MelakaFM" channel id="RTMK30" radio="true" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png", MELAKA FM
 https://22243.live.streamtheworld.com/MELAKA_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="JohorFM" channel id="RTMK24" radio="true" tvg-logo="https://johorfm.rtm.gov.my/storage/app/uploads/public/606/5ec/3cd/6065ec3cd26cd461374888.png", JOHOR FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="JohorFM" channel id="RTMK24" radio="true" tvg-logo="https://johorfm.rtm.gov.my/storage/app/uploads/public/606/5ec/3cd/6065ec3cd26cd461374888.png", JOHOR FM
 https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SarawakFM" channel id="RTMK17" radio="true" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png", SARAWAK FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="SarawakFM" channel id="RTMK17" radio="true" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png", SARAWAK FM
 https://22243.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SabahFM" channel id="RTMK31" radio="true" tvg-logo="https://sabahfm.rtm.gov.my/storage/app/uploads/public/608/0c5/2ac/6080c52accea9537873246.png", SABAH FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="SabahFM" channel id="RTMK31" radio="true" tvg-logo="https://sabahfm.rtm.gov.my/storage/app/uploads/public/608/0c5/2ac/6080c52accea9537873246.png", SABAH FM
 https://23693.live.streamtheworld.com/SABAH_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SabahVFM" channel id="RTMK16" radio="true" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png", SABAH VFM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="SabahVFM" channel id="RTMK16" radio="true" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png", SABAH VFM
 https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac
 
 ################################################################ RADIO DAERAH ################################################################################
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="LangkawiFM" channel id="RTMK34" radio="true" tvg-logo="https://langkawifm.rtm.gov.my/storage/app/uploads/public/606/a94/09b/606a9409b3cc1196501923.png", LANGKAWI FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="LangkawiFM" channel id="RTMK34" radio="true" tvg-logo="https://langkawifm.rtm.gov.my/storage/app/uploads/public/606/a94/09b/606a9409b3cc1196501923.png", LANGKAWI FM
 https://22243.live.streamtheworld.com/LANGKAWI_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="LabuanFM" channel id="RTMK18" radio="true" tvg-logo="https://labuanfm.rtm.gov.my/storage/app/uploads/public/606/6fb/2ee/6066fb2eea8c8102025697.png", LABUAN FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="LabuanFM" channel id="RTMK18" radio="true" tvg-logo="https://labuanfm.rtm.gov.my/storage/app/uploads/public/606/6fb/2ee/6066fb2eea8c8102025697.png", LABUAN FM
 https://22243.live.streamtheworld.com/LABUAN_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="WaiFMIban" channel id="RTMK32" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png", WAI FM IBAN
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="WaiFMIban" channel id="RTMK32" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png", WAI FM IBAN
 https://22243.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="WaiFMBKA" channel id="RTMK32" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png", WAI FM BK
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="WaiFMBKA" channel id="RTMK32" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png", WAI FM BK
 https://22243.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="RedFM" channel id="RTMK33" radio="true" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/RedFM.png", RED FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="RedFM" channel id="RTMK33" radio="true" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/RedFM.png", RED FM
 https://22243.live.streamtheworld.com/RED_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="LimbangFM" channel id="RTMK35" radio="true" tvg-logo="https://limbangfm.rtm.gov.my/storage/app/uploads/public/608/0c5/ce0/6080c5ce08d34398629693.png", LIMBANG FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="LimbangFM" channel id="RTMK35" radio="true" tvg-logo="https://limbangfm.rtm.gov.my/storage/app/uploads/public/608/0c5/ce0/6080c5ce08d34398629693.png", LIMBANG FM
 https://23693.live.streamtheworld.com/LIMBANGAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MiriFM" channel id="RTMK36" radio="true" tvg-logo="https://mirifm.rtm.gov.my/storage/app/uploads/public/608/0c6/0f0/6080c60f05b3a435456235.png", MIRI FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="MiriFM" channel id="RTMK36" radio="true" tvg-logo="https://mirifm.rtm.gov.my/storage/app/uploads/public/608/0c6/0f0/6080c60f05b3a435456235.png", MIRI FM
 https://22243.live.streamtheworld.com/MIRI_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SriAmanFM" channel id="RTMK37" radio="true" tvg-logo="https://sriamanfm.rtm.gov.my/storage/app/uploads/public/608/0c6/8a8/6080c68a8c53d419294766.png", SRI AMAN FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="SriAmanFM" channel id="RTMK37" radio="true" tvg-logo="https://sriamanfm.rtm.gov.my/storage/app/uploads/public/608/0c6/8a8/6080c68a8c53d419294766.png", SRI AMAN FM
 https://22243.live.streamtheworld.com/SRIAMAN_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="BintuluFM" channel id="RTMK38" radio="true" tvg-logo="https://bintulufm.rtm.gov.my/storage/app/uploads/public/60f/e2d/5ed/60fe2d5ed5edc343829293.png", BINTULU FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="BintuluFM" channel id="RTMK38" radio="true" tvg-logo="https://bintulufm.rtm.gov.my/storage/app/uploads/public/60f/e2d/5ed/60fe2d5ed5edc343829293.png", BINTULU FM
 https://22243.live.streamtheworld.com/BINTULU_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SibuFM" channel id="RTMK39" radio="true" tvg-logo="https://sibufm.rtm.gov.my/storage/app/uploads/public/608/0c6/419/6080c6419f042683538552.png", SIBU FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="SibuFM" channel id="RTMK39" radio="true" tvg-logo="https://sibufm.rtm.gov.my/storage/app/uploads/public/608/0c6/419/6080c6419f042683538552.png", SIBU FM
 https://22243.live.streamtheworld.com/SIBU_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="SandakanFM" channel id="RTMK40" radio="true" tvg-logo="https://sandakanfm.rtm.gov.my/storage/app/uploads/public/606/925/a91/606925a915a62312885627.png", SANDAKAN FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="SandakanFM" channel id="RTMK40" radio="true" tvg-logo="https://sandakanfm.rtm.gov.my/storage/app/uploads/public/606/925/a91/606925a915a62312885627.png", SANDAKAN FM
 https://22243.live.streamtheworld.com/SANDAKAN_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="TawauFM" channel id="RTMK41" radio="true" tvg-logo="https://tawaufm.rtm.gov.my/storage/app/uploads/public/606/989/7f4/6069897f48a7b350028275.png", TAWAU FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="TawauFM" channel id="RTMK41" radio="true" tvg-logo="https://tawaufm.rtm.gov.my/storage/app/uploads/public/606/989/7f4/6069897f48a7b350028275.png", TAWAU FM
 https://22243.live.streamtheworld.com/TAWAU_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Daerah" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="KeningauFM" channel id="RTMK42" radio="true" tvg-logo="https://keningaufm.rtm.gov.my/storage/app/uploads/public/606/927/0c8/6069270c871dd542240709.png", KENINGAU FM
+#EXTINF:-1 group-title="Radio Daerah" tvg-id="KeningauFM" channel id="RTMK42" radio="true" tvg-logo="https://keningaufm.rtm.gov.my/storage/app/uploads/public/606/927/0c8/6069270c871dd542240709.png", KENINGAU FM
 https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 ################################################################ RADIO ONLINE ################################################################################
 
-#EXTINF:-1 group-title="Radio Online" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="RLROCKJIWANG" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/RL-Rock-Jiwang-e1616985537138.png", RL ROCK JIWANG
+#EXTINF:-1 group-title="Radio Online" tvg-id="RLROCKJIWANG" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/RL-Rock-Jiwang-e1616985537138.png", RL ROCK JIWANG
 https://rlrockjiwang.radioca.st/stream
 http://procyon.shoutca.st:8346/stream/1/
 http://198.50.156.92:8346/stream
 
-#EXTINF:-1 group-title="Radio Online" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="RLBBEST" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/photo_2021-01-01_17-53-48-removebg-preview-e1616985696169.png", RL B BEST
+#EXTINF:-1 group-title="Radio Online" tvg-id="RLBBEST" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/photo_2021-01-01_17-53-48-removebg-preview-e1616985696169.png", RL B BEST
 https://rlbbest.radioca.st/stream
 
-#EXTINF:-1 group-title="Radio Online" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MYFRIENDFM" tvg-logo="http://myfriend.fm/assets/images/whatsapp-image-2022-06-21-at-6.40.34-pm-photoroom-228x167.png", MY FRIEND.FM
+#EXTINF:-1 group-title="Radio Online" tvg-id="MYFRIENDFM" tvg-logo="http://myfriend.fm/assets/images/whatsapp-image-2022-06-21-at-6.40.34-pm-photoroom-228x167.png", MY FRIEND.FM
 https://cast3.asurahosting.com/proxy/myfriend/stream
 
-#EXTINF:-1 group-title="Radio Online" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="MELAYUKLASIK" tvg-logo="https://aqfadtv.xyz/logos/MelayuKlasik.png", MELAYU KLASIK
+#EXTINF:-1 group-title="Radio Online" tvg-id="MELAYUKLASIK" tvg-logo="https://aqfadtv.xyz/logos/MelayuKlasik.png", MELAYU KLASIK
 https://stream.zeno.fm/4s44thh7yf9uv
 
-#EXTINF:-1 group-title="Radio Online" group-logo="https://w7.pngwing.com/pngs/313/54/png-transparent-internet-radio-radio-electronics-microphone-photography.png" tvg-id="QURAN" tvg-logo="https://aqfadtv.xyz/logos/Quran.png", Quran.
+#EXTINF:-1 group-title="Radio Online" tvg-id="QURAN" tvg-logo="https://aqfadtv.xyz/logos/Quran.png", Quran.
 http://node-15.zeno.fm:80/tny4226nachvv
 
 
