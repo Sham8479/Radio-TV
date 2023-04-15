@@ -777,18 +777,18 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456", CH811 Astro SuperSport FHD
+#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", CH811 Astro SuperSport FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", CH812 Astro SuperSport 2 FHD
+#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", CH812 Astro SuperSport 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", CH813 Astro SuperSport 3 FHD
+#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", CH813 Astro SuperSport 3 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -802,7 +802,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", CH814 Astro SuperSport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", CH815 Astro Supersport 5 FHD
+#EXTINF:-1 group-title="Sports" group-logo="https://www.pngall.com/wp-content/uploads/1/Sports-Free-Download-PNG.png" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png", CH815 Astro Supersport 5 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
