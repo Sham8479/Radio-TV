@@ -156,7 +156,7 @@ https://speedtrademarket.com/vip/warna.mpd
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,7 +168,7 @@ https://speedtrademarket.com/vip/citra.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
+#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD 2
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://speedtrademarket.com/vip/citra.mpd
 
