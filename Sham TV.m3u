@@ -1150,7 +1150,7 @@ https://stream.zeno.fm/4s44thh7yf9uv
 http://node-15.zeno.fm:80/tny4226nachvv
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="SINARROCKKAPAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Sinar_Rock_Kapak.png/revision/latest?cb=20211109000726", SINAR ROCK KAPAK
-https://hls.rastream.com/astro-sinar-rock.web.hls/playlist.m3u8?listeningSessionID=63f3904af48d023a_4820993_3ga8yCpc_MTAzLjIxLjgxLjM6ODA!_0000007YWY5&downloadSessionID=0&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODE4MTM5NTUsImlhdCI6MTY4MTcyNzU1NSwib2lkIjoiZXJhLXlvdXR1YmUifQ.xl0WDuMo7lwIW-VRmWZ8amBazfnJ5Z0sS0Al6pO7kzE&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aastro-sinar-rock&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22ms%22%5D&setLanguage=true
+http://ingest2.astro1.rastream.com/astro-sinar-rock
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="PINENETRADIO" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/6/47476.v2.png", PINE NET RADIO
 http://167.114.131.90:5744/stream
