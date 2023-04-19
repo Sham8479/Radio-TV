@@ -1076,7 +1076,7 @@ https://23733.live.streamtheworld.com/KL_FMAAC.aac
 #EXTINF:-1 group-title="Radio Negeri" tvg-id="NegeriFM" channel id="RTMK25" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Negeri_FM_2021.png/revision/latest?cb=20211114000225", NEGERI FM
 https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
 
-#EXTINF:-1 group-title="Radio Negeri" tvg-id="MelakaFM" channel id="RTMK30" radio="true" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png", MELAKA FM
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="MelakaFM" channel id="RTMK30" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Melaka_FM_logo_2021.png", MELAKA FM
 https://22243.live.streamtheworld.com/MELAKA_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio Negeri" tvg-id="JohorFM" channel id="RTMK24" radio="true" tvg-logo="https://johorfm.rtm.gov.my/storage/app/uploads/public/606/5ec/3cd/6065ec3cd26cd461374888.png", JOHOR FM
