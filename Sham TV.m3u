@@ -93,16 +93,6 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="myFreeview" tvg-id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
-
-#EXTINF:-1 group-title="myFreeview" tvg-id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
-
 ################################################################ TV ONLINE ####################################################################################
 
 #EXTINF:-1 group-title="TV Online" tvg-id="DramaSangat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png/revision/latest/scale-to-width-down/250?cb=20210911080527", Drama Sangat HD
@@ -115,6 +105,16 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
+#EXTINF:-1 group-title="TV Online" tvg-id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
+
+#EXTINF:-1 group-title="TV Online" tvg-id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
 ############################################################ ASTRO ############################################################################################
 
