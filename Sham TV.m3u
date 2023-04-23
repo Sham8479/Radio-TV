@@ -1171,7 +1171,8 @@ http://ingest2.astro1.rastream.com/astro-sinar-rock
 http://167.114.131.90:5744/stream
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="RIANGRAYA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/SYOK_Riang_Raya.png/revision/latest?cb=20220425050438", RIANG RAYA
-https://audio1.syok.my/_nuxt/videos/black.bdc924e.mp4
+https://astro1.rastream.com/astro-riang-raya.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODIzMzYyODAsImlhdCI6MTY4MjI0OTg4MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.bEvwM_8qjjhFfpkIFeHSnUqI8CmxG5kwamoCS4rVPY0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aastro-riang-raya&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22ms%22%5D&setLanguage=true
+
 
 
 
