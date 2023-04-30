@@ -121,7 +121,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-ZNxrBU8=LdHU/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://hotz.vip:2082/ejumjom/ejumjom/20
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,7 +139,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNnh5ySiJH1mynF869K71CYQ=VCtQ/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://hotz.vip:2082/ejumjom/ejumjom/24
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
@@ -144,7 +151,11 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&e
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNrr8psKVHjAwhN0V2y2Dq1I=iFiL/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://hotz.vip:2082/ejumjom/ejumjom/27
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
