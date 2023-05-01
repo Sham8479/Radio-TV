@@ -121,10 +121,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria HD
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://hotz.vip:2082/ejumjom/ejumjom/18
+https://linears-playback.astro.com.my/vsg/419cgXDnniF3WAs2qOhlMlsRabaoC4U5lyiCe4DhMCu-s=z96k/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,11 +136,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://hotz.vip:2082/ejumjom/ejumjom/24
+https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zVrOFtj8U=kXN2/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
@@ -151,11 +144,7 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&e
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://hotz.vip:2082/ejumjom/ejumjom/27
+https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z_PiTuNVXt_LWHXEgpY_8Dc=otOO/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
@@ -286,7 +275,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
 #EXTVLCOPT:network-caching=1000
-https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbD0KzN7wcEeutUckjPy%2BEClosfp6R6O%2BlxT0e8PKa609dFF%2BEmouv2MMg%2FrhMTKQ%2B6yRzEgpQ7K4fF%2BVYtrFewlt5J0dsgfU28LWZM15p3G2%3A20230429093553%3AUTC%2C10001002129788%2C180.75.45.169%2C20230429093553%2Curn:Huawei:liveTV:iptv47777%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3193583005%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ6CMBREb9NlQwsILLrCmJgYNBHdmt_yWwmFaosk3l5Q3M68N5nRg8L9VhRa60QhppuYJyALmXJZYJEnMpIQJzkJ-Kyc4ESBte1gKtcs2vVc3lhEI8o5ozNVL3M7C2Ylq1cv0Qv2187op1ahaIKmEwQKxng0MLZuoCcL74u3K0KwXq-xTc6zjGd5FDNGxiWtIXRzQ-4QStc_wGNzcOYrCA02IHmA6sBgBT2K4WXtzzv6Zn7zASGjLkb0AAAA&tenantId=6003
+https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbEj%2BLcqqhtqXwBkj%2BYwC%2B6BEZPi4onGL17nWHu4WItemK5OKhy5m%2BPORV0DGL0UEMUV4Chgc98H8w715s7gH25aVFRTQiCcWXuFIeO21qkbF%3A20230501055701%3AUTC%2C10001002129788%2C180.75.253.194%2C20230501055701%2Curn:Huawei:liveTV:iptv47777%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3193583005%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQrCMBBE_ybH0Kw11kNOiiBIFaxeZZNsYzFtNKmCf2-r9Tozb3h9REPbtZKwhIWBAgoUuZZC57m2NNczYWFpZc0SPcqggBn0vulcGeyInY-ri8h4xgEEzxesGu82Ht20LJ-tpqjEHztSfDWGlE01f2Hi6Fwkh30TOn7w-D5FP00YVZOakMUgJ2dSZjBn_ZhWmG5Dw66YVqG9YyS7C-4LqBp9InZHc0NHJbakuqf3P24f7WDzAY5uKfX0AAAA&tenantId=6003
 
 #EXTINF:-1 group-title="Unifi TV" tvg-id="Sensasi" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", CH116 Unifi Sensasi FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
