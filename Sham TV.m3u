@@ -121,7 +121,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/419cgXDnniF3WAs2qOhlMlsRabaoC4U5lyiCe4DhMCu-s=z96k/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41C6TcM7PNnuyaKYavSYd3v-bghtwW0IWwMTt9Uw_2x24=ourn/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,7 +136,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zVrOFtj8U=kXN2/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLUMXhEQfTa0AhiKTX7t88kU=cfH-/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
@@ -144,7 +144,7 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&e
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z_PiTuNVXt_LWHXEgpY_8Dc=otOO/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLa2J2X93qSRcbuRk4wYgZmA=yJAs/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
@@ -991,7 +991,7 @@ https://astro3.rastream.com/astro-zayan-airasia
 https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzU3NjM4NjUsImlhdCI6MTY3NTY3NzQ2NSwib2lkIjoiZXJhLXlvdXR1YmUifQ.gTe2n-wy9O2Nq9MTRmyUTdV2odACVVuS2rWgqhedeEc&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22zh%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png", CH958 SURIA
-https://dengar.suria.my/
+https://cl.imghosts.com/imgh/video/upload/ar_1:1,c_fill,w_680/videos/t/2023-04/242135/2e931ff9abeec5cb81cfcfa5a0049cc5.mp4?v=1683209240-Fx-2YlPeCYQWIVYIX2Hx5_H-DJli5MCL3e1HVfscWPo
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="988" ch-number="988" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/988_Logo_-_Transparent.png/640px-988_Logo_-_Transparent.png", CH988 988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
