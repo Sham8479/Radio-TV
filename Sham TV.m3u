@@ -187,10 +187,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="ABOBollyoneHD" ch-number="251" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png?20200519191755", CH251 ABO Bollyone FHD
+#EXTINF:-1 group-title="Astro" tvg-id="ZeeCinema" ch-number="251" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png", CH251 Zee Cinema FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
+
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH304 Astro Xiao Tai Yang FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
