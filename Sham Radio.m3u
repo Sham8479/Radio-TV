@@ -240,7 +240,7 @@ http://node-15.zeno.fm:80/tny4226nachvv
 #EXTINF:-1 group-title="Radio Online" tvg-id="SINARROCKKAPAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Sinar_Rock_Kapak.png/revision/latest?cb=20211109000726", SINAR ROCK KAPAK
 http://ingest2.astro1.rastream.com/astro-sinar-rock
 
-#EXTINF:-1 group-title="Radio Online" tvg-id="PINENETRADIO" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/6/47476.v2.png", PINE NET RADIO
+#EXTINF:-1 group-title="Radio Online" tvg-id="PINENETRADIO" tvg-logo="https://radioly.app/new_images/16261.png", PINE NET RADIO
 http://167.114.131.90:5744/stream
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="RIANGRAYA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/SYOK_Riang_Raya.png/revision/latest?cb=20220425050438", RIANG RAYA
