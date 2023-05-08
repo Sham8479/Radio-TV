@@ -128,13 +128,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5105/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.xs
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
-
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
@@ -150,13 +143,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
-https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.xs
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
-
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 
 
@@ -164,13 +150,6 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700/
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.xs
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", CH108 Astro Citra HD (SG)
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
