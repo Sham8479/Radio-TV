@@ -123,7 +123,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-
+https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
+#https://channel.zeehanzgadget.com/1004.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -138,7 +139,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-
+https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEmxOYzB9SKhBVhJzHSqCisk=YAB9/dash-wv/jitp-linearwm/2402/manifest.mpd
+#https://channel.zeehanzgadget.com/2402.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 
