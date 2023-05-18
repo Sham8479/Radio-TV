@@ -81,7 +81,7 @@ https://23733.live.streamtheworld.com/SURIA_FMAAC.aac?key=value&key2=value2&dist
 https://23023.live.streamtheworld.com/988_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&csegid=888&dist=988_player_android&tdsdk=js-2.9&swm=false&banners=300x250%2C728x90&burst-time=15&sbmid=cf9fba00-8c28-474f-d883-257260ca025b
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", Radio IKIM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODQ0MTI1MzksImV4cCI6MTY4NDQ5ODkzOX0.hzqLpZvWwccjQBks0RdBoXuXtxNaMEFBa3gTd41Dom8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODQ0MTI4MTMsImV4cCI6MTY4NDQ5OTIxM30.m5uPYwbGoN3GtL-fyalm_pFn5VkercQQareIbTwPHk4&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="BESTFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
