@@ -119,13 +119,13 @@ https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio Nasional" tvg-id="TraxxFM" channel id="RTMK11" group-title="Radio Nasional" radio="true" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png", CH702 TRAXX FM
-https://live.mana2.my/TraxxFm/index.m3u8?organizationId=196288014&suiteItemId=229147406
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
 
 #EXTINF:-1 group-title="Radio Nasional" tvg-id="AiFM" channel id="RTMK12" group-title="Radio Nasional" radio="true" tvg-logo="https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png", CH704 AI FM 
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio Nasional" tvg-id="MinnalFM" channel id="RTMK13" group-title="Radio Nasional" radio="true" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png", CH703 MINNAL FM 
-https://live.mana2.my/MinnalFm/index.m3u8?organizationId=196288014&suiteItemId=229147841
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC_SC
 
 #EXTINF:-1 group-title="Radio Nasional" tvg-id="AsyikFM" channel id="RTMK14" group-title="Radio Nasional" radio="true" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png", CH706 ASYIK FM
 https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
