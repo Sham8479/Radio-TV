@@ -86,7 +86,7 @@ https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?awparams=companionads
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="BESTFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
 
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png", CH726 MANIS FM
 https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="MAKMURFM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
