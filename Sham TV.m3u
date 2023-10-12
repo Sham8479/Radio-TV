@@ -51,7 +51,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
-https://live.mana2.my/Tv6/index.m3u8?auth_key=1697044369-4197e680fe50444082ab64157a682d82-0-55e2cced6e09ea124c544af50106fa4f&token=1697044369-4197e680fe50444082ab64157a682d82-0-55e2cced6e09ea124c544af50106fa4f
+https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1697105117-078ffbcd544b4369a2f4cc48796432ee-0-3b08a6236351cff8c260f327598021e4&auth_key=1697105117-078ffbcd544b4369a2f4cc48796432ee-0-7705999d9316dca667410516a39930c6
 
 #EXTINF:-1 group-title="myFreeview" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png", CH114 TV AlHijrah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,7 +61,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 group-title="myFreeview" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png", CH116 Suke TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1697044551-81b538d11c424e62a28a80e48d2958d4-0-a68641b7dd0c4c563b1d440bff50a7e0&token=1697044551-81b538d11c424e62a28a80e48d2958d4-0-a68641b7dd0c4c563b1d440bff50a7e0
+https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1697105321-47a77b490a0b4cd4841391ff5dfa2c2a-0-65761662b5b62d766bcbe44feab372bb&auth_key=1697105321-47a77b490a0b4cd4841391ff5dfa2c2a-0-7a7b9569101abec84c8f2204d94e75d9
 
 #EXTINF:-1 group-title="myFreeview" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg", CH122 TVS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,14 +118,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 
 ############################################################ ASTRO ############################################################################################
 
-
-
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", CH104 Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41lXpzlWglCm0GNWgsacPSFTPUp4vuedUI2OuRtWGygyg=jS80/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", CH105 Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -141,8 +137,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41XFOOMS4XVPBdc43rbluUAr3YlDFQzgaO9_72ODTSUl0=-2QG/dash-wv/jitp-linearwm/2402/default_primary.mpd
-
-
 
 #EXTINF:-1 group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", CH107 Astro Warna HD (SG)
 
