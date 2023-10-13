@@ -189,11 +189,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH304 Astro Xiao Tai Yang HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default.mpd
-
 #EXTINF:-1 group-title="Astro" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png", CH306 Astro AEC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/
@@ -228,6 +223,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroPremier" ch-number="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH410 Astro Premier HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png", CH611 Astro Ceria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
