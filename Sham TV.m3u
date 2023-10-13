@@ -224,7 +224,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroPremier" ch-number="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png", CH410 Astro Premier HD
+#EXTINF:-1 group-title="Astro" tvg-id="AstroPremier" ch-number="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png", CH410 Astro Premier HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default.mpd
